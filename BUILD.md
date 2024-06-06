@@ -1,4 +1,4 @@
-# How to the official Redis images are built
+# How the official Redis images are built
 
 ## Prepare the Docker files and metadata
 
